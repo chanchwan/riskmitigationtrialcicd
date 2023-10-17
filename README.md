@@ -1,6 +1,6 @@
 # Getting Started
 
-Welcome to your new project. from fiori 2
+Welcome to your new project. kembali ke CAP
 
 It contains these folders and files, following our recommended project layout:
 
