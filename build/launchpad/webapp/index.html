@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title> Project Preview </title>
+    <title> Application Overview </title>
     <script src="shared-config.js"></script>
     <script src="https://ui5.sap.com/1.108.7/resources/sap-ui-core.js" 
             id="sap-ui-bootstrap"
@@ -28,7 +28,7 @@
                     return Controller.extend("PreviewController", {
                         onInit: function () {
 
-                            const data = {"Services":[{"ServiceName":"FullStackTrialService","DetailsURL":"./service/FullStackTrial/","Metadata":"./service/FullStackTrial/$metadata","Entities":[{"Name":"Risk","URL":"./service/FullStackTrial/Risk","FioriURL":"$fiori-preview/FullStackTrialService/Risk#preview-app"},{"Name":"Mitigation","URL":"./service/FullStackTrial/Mitigation","FioriURL":"$fiori-preview/FullStackTrialService/Mitigation#preview-app"},{"Name":"A_BusinessPartner","URL":"./service/FullStackTrial/A_BusinessPartner","FioriURL":"$fiori-preview/FullStackTrialService/A_BusinessPartner#preview-app"}],"EntitiesCount":3}]}
+                            const data = {"Services":[{"ServiceName":"FullStackTrialService","DetailsURL":"./service/FullStackTrial/","Metadata":"./service/FullStackTrial/$metadata","Entities":[{"Name":"Risk","URL":"./service/FullStackTrial/Risk","FioriURL":""},{"Name":"Mitigation","URL":"./service/FullStackTrial/Mitigation","FioriURL":""},{"Name":"A_BusinessPartner","URL":"./service/FullStackTrial/A_BusinessPartner","FioriURL":""}],"EntitiesCount":3}]}
                             this.getView().setModel(new JSONModel(data));
                         }
                     });
