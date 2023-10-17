@@ -1,6 +1,6 @@
 # Getting Started
 
-Welcome to your new project. ok
+Welcome to your new project. okok
 
 It contains these folders and files, following our recommended project layout:
 
