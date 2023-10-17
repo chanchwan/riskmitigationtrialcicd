@@ -1,6 +1,6 @@
 # Getting Started
 
-Welcome to your new project. okok
+Welcome to your new project. from fiori
 
 It contains these folders and files, following our recommended project layout:
 
