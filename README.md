@@ -1,6 +1,6 @@
 # Getting Started
 
-Welcome to your new project. kembali ke CAP
+Welcome to your new project. kembali ke CAP test tgl 27/10/23
 
 It contains these folders and files, following our recommended project layout:
 
